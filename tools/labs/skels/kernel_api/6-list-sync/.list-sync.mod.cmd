@@ -1,0 +1,1 @@
+cmd_/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_api/6-list-sync/list-sync.mod := { echo  /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_api/6-list-sync/list-sync.o;  echo; } > /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_api/6-list-sync/list-sync.mod

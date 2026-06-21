@@ -1,0 +1,2 @@
+/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_api/5-list-full/list-full.o
+

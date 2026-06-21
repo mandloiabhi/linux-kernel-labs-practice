@@ -1,0 +1,1 @@
+cmd_/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/3-error-mod/err_mod.mod := { echo  /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/3-error-mod/err_mod.o;  echo; } > /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/3-error-mod/err_mod.mod

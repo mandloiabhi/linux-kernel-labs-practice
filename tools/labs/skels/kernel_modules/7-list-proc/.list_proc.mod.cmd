@@ -1,0 +1,1 @@
+cmd_/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.mod := { echo  /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.o;  echo; } > /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.mod

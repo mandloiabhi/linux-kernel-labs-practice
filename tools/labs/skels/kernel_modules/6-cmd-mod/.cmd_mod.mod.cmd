@@ -1,0 +1,1 @@
+cmd_/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/6-cmd-mod/cmd_mod.mod := { echo  /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/6-cmd-mod/cmd_mod.o;  echo; } > /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/6-cmd-mod/cmd_mod.mod

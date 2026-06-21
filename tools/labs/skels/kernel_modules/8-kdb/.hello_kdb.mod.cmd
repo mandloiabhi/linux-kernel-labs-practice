@@ -1,0 +1,1 @@
+cmd_/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/8-kdb/hello_kdb.mod := { echo  /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/8-kdb/hello_kdb.o;  echo; } > /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/8-kdb/hello_kdb.mod

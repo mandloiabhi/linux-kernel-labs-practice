@@ -1,0 +1,5 @@
+0x00000000	task_info_add_for_current	/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_api/6-list-sync/list-sync	EXPORT_SYMBOL	
+0x00000000	my_debug_func	/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/9-dyndbg/dyndbg	EXPORT_SYMBOL	
+0x00000000	kdb_write_address	/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_modules/8-kdb/hello_kdb	EXPORT_SYMBOL	
+0x00000000	task_info_remove_expired	/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_api/6-list-sync/list-sync	EXPORT_SYMBOL	
+0x00000000	task_info_print_list	/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/./kernel_api/6-list-sync/list-sync	EXPORT_SYMBOL	

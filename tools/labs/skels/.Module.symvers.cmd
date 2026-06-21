@@ -1,0 +1,1 @@
+cmd_/home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/Module.symvers := sed 's/ko$$/o/' /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/modules.order | scripts/mod/modpost   -E  -o /home/abhijeet/linux_kernel_lab/linux-kernel-labs-practice/tools/labs/skels/Module.symvers -e -i Module.symvers   -T -
